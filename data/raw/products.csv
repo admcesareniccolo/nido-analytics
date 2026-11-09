@@ -1,0 +1,217 @@
+product_id,product_name,category,unit_cost_eur,list_price_eur,launched_at,is_active
+P0001,Coral Sofa Cushion,Living,96.96,250.99,2023-03-04,True
+P0002,Oak Sofa Cushion,Living,71.57,227.99,2026-02-11,True
+P0003,Linen Sofa Cushion,Living,142.1,312.99,2022-08-17,False
+P0004,Sage Sofa Cushion,Living,20.99,53.99,2022-06-30,True
+P0005,Terracotta Sofa Cushion,Living,62.56,127.99,2022-07-03,True
+P0006,Slate Sofa Cushion,Living,103.01,265.99,2025-08-02,True
+P0007,Sand Throw Blanket,Living,34.49,83.99,2026-03-10,True
+P0008,Terracotta Throw Blanket,Living,113.96,266.99,2023-11-18,True
+P0009,Walnut Throw Blanket,Living,90.67,245.99,2024-03-02,True
+P0010,Sage Throw Blanket,Living,131.34,286.99,2022-02-21,True
+P0011,Linen Throw Blanket,Living,29.02,73.99,2025-03-24,True
+P0012,Slate Throw Blanket,Living,27.13,61.99,2024-02-09,True
+P0013,Ivory Floor Lamp,Living,120.36,241.99,2023-03-20,True
+P0014,Oak Floor Lamp,Living,50.27,127.99,2023-05-18,True
+P0015,Sand Floor Lamp,Living,23.46,72.99,2022-09-08,True
+P0016,Coral Floor Lamp,Living,36.52,83.99,2025-03-04,True
+P0017,Sage Floor Lamp,Living,69.41,147.99,2025-07-20,True
+P0018,Moss Floor Lamp,Living,51.58,109.99,2022-08-29,True
+P0019,Midnight Side Table,Living,97.63,259.99,2022-04-13,True
+P0020,Nordic Side Table,Living,72.13,222.99,2023-06-14,True
+P0021,Slate Side Table,Living,22.47,75.99,2022-06-23,True
+P0022,Moss Side Table,Living,96.41,217.99,2022-06-30,True
+P0023,Terracotta Side Table,Living,98.8,252.99,2025-03-31,True
+P0024,Ivory Side Table,Living,18.45,57.99,2022-11-29,True
+P0025,Linen Bookshelf,Living,86.08,218.99,2022-05-13,True
+P0026,Terracotta Bookshelf,Living,106.01,247.99,2022-12-02,True
+P0027,Slate Bookshelf,Living,75.73,183.99,2022-06-24,True
+P0028,Midnight Bookshelf,Living,9.26,23.99,2024-09-30,True
+P0029,Sand Bookshelf,Living,30.39,79.99,2022-02-06,True
+P0030,Nordic Bookshelf,Living,26.34,85.99,2026-02-07,True
+P0031,Slate Armchair Cover,Living,35.93,100.99,2025-01-25,True
+P0032,Moss Armchair Cover,Living,84.87,184.99,2022-09-25,True
+P0033,Sand Armchair Cover,Living,82.73,217.99,2025-01-11,True
+P0034,Coral Armchair Cover,Living,19.72,65.99,2022-06-11,True
+P0035,Midnight Armchair Cover,Living,18.72,41.99,2022-09-01,True
+P0036,Oak Armchair Cover,Living,25.56,63.99,2023-02-12,True
+P0037,Sage Rug,Living,26.86,60.99,2023-01-20,True
+P0038,Ivory Rug,Living,46.82,130.99,2023-02-23,True
+P0039,Linen Rug,Living,76.61,206.99,2026-05-13,True
+P0040,Oak Rug,Living,25.3,50.99,2023-11-01,True
+P0041,Slate Rug,Living,128.8,291.99,2023-02-15,True
+P0042,Sand Rug,Living,142.35,310.99,2024-08-27,True
+P0043,Coral Chef Knife,Kitchen,51.28,131.99,2025-10-25,True
+P0044,Ivory Chef Knife,Kitchen,12.09,24.99,2024-09-02,True
+P0045,Moss Chef Knife,Kitchen,29.28,86.99,2022-08-14,True
+P0046,Terracotta Chef Knife,Kitchen,35.77,107.99,2023-06-01,True
+P0047,Nordic Chef Knife,Kitchen,70.28,154.99,2025-03-19,True
+P0048,Walnut Chef Knife,Kitchen,35.35,82.99,2022-08-16,False
+P0049,Moss Cast Iron Pan,Kitchen,46.94,108.99,2022-10-18,True
+P0050,Oak Cast Iron Pan,Kitchen,24.23,79.99,2023-11-03,True
+P0051,Coral Cast Iron Pan,Kitchen,33.79,92.99,2022-09-26,True
+P0052,Walnut Cast Iron Pan,Kitchen,11.27,26.99,2023-09-22,True
+P0053,Slate Cast Iron Pan,Kitchen,18.56,37.99,2026-06-09,True
+P0054,Sand Cast Iron Pan,Kitchen,28.44,67.99,2022-11-21,True
+P0055,Sand Coffee Grinder,Kitchen,6.44,12.99,2023-03-15,False
+P0056,Coral Coffee Grinder,Kitchen,44.54,142.99,2023-01-29,True
+P0057,Midnight Coffee Grinder,Kitchen,36.54,91.99,2023-02-27,False
+P0058,Walnut Coffee Grinder,Kitchen,42.11,106.99,2026-04-24,False
+P0059,Ivory Coffee Grinder,Kitchen,20.0,54.99,2022-12-16,False
+P0060,Linen Coffee Grinder,Kitchen,25.08,83.99,2023-01-02,True
+P0061,Sage Ceramic Bowl Set,Kitchen,72.35,149.99,2025-05-03,True
+P0062,Coral Ceramic Bowl Set,Kitchen,32.96,103.99,2023-09-25,True
+P0063,Walnut Ceramic Bowl Set,Kitchen,43.79,123.99,2024-08-07,True
+P0064,Terracotta Ceramic Bowl Set,Kitchen,60.59,132.99,2022-09-27,True
+P0065,Nordic Ceramic Bowl Set,Kitchen,13.13,26.99,2022-02-18,True
+P0066,Midnight Ceramic Bowl Set,Kitchen,6.16,14.99,2024-07-26,True
+P0067,Coral Cutting Board,Kitchen,33.72,71.99,2025-02-18,True
+P0068,Oak Cutting Board,Kitchen,31.14,62.99,2022-06-15,True
+P0069,Linen Cutting Board,Kitchen,23.73,58.99,2022-04-08,True
+P0070,Sand Cutting Board,Kitchen,55.55,168.99,2023-07-06,True
+P0071,Midnight Cutting Board,Kitchen,6.55,16.99,2022-02-22,True
+P0072,Ivory Cutting Board,Kitchen,72.67,160.99,2022-02-06,False
+P0073,Ivory Espresso Cups,Kitchen,77.57,160.99,2023-10-12,True
+P0074,Linen Espresso Cups,Kitchen,28.74,62.99,2023-01-03,False
+P0075,Oak Espresso Cups,Kitchen,45.46,121.99,2022-04-21,True
+P0076,Terracotta Espresso Cups,Kitchen,47.84,136.99,2023-10-27,True
+P0077,Nordic Espresso Cups,Kitchen,58.26,168.99,2023-12-10,True
+P0078,Slate Espresso Cups,Kitchen,49.27,150.99,2024-04-20,True
+P0079,Ivory Spice Rack,Kitchen,16.8,39.99,2022-08-16,False
+P0080,Coral Spice Rack,Kitchen,15.45,42.99,2026-02-26,False
+P0081,Walnut Spice Rack,Kitchen,70.75,141.99,2023-01-17,False
+P0082,Nordic Spice Rack,Kitchen,10.1,33.99,2023-01-16,True
+P0083,Terracotta Spice Rack,Kitchen,15.44,47.99,2023-12-20,False
+P0084,Slate Spice Rack,Kitchen,12.01,29.99,2022-09-14,True
+P0085,Oak Duvet Cover,Bedroom,77.41,185.99,2025-01-10,True
+P0086,Moss Duvet Cover,Bedroom,94.66,212.99,2023-08-15,False
+P0087,Slate Duvet Cover,Bedroom,63.36,196.99,2023-03-04,True
+P0088,Terracotta Duvet Cover,Bedroom,91.76,242.99,2023-10-07,True
+P0089,Sand Duvet Cover,Bedroom,36.5,91.99,2023-01-11,True
+P0090,Linen Duvet Cover,Bedroom,88.22,248.99,2022-09-24,True
+P0091,Nordic Linen Sheets,Bedroom,72.44,241.99,2025-06-21,False
+P0092,Coral Linen Sheets,Bedroom,54.41,171.99,2022-12-09,True
+P0093,Sage Linen Sheets,Bedroom,20.25,52.99,2023-12-28,True
+P0094,Walnut Linen Sheets,Bedroom,79.89,162.99,2022-02-24,True
+P0095,Midnight Linen Sheets,Bedroom,83.56,212.99,2022-10-14,False
+P0096,Sand Linen Sheets,Bedroom,7.29,22.99,2022-07-01,True
+P0097,Walnut Pillow,Bedroom,101.07,218.99,2025-02-20,True
+P0098,Ivory Pillow,Bedroom,61.95,146.99,2023-07-23,True
+P0099,Sage Pillow,Bedroom,95.94,227.99,2023-06-13,True
+P0100,Coral Pillow,Bedroom,41.81,108.99,2023-03-19,True
+P0101,Linen Pillow,Bedroom,83.84,175.99,2023-06-24,True
+P0102,Midnight Pillow,Bedroom,27.16,78.99,2025-02-12,True
+P0103,Coral Bedside Lamp,Bedroom,92.66,198.99,2022-03-01,True
+P0104,Sage Bedside Lamp,Bedroom,14.66,34.99,2024-04-04,False
+P0105,Ivory Bedside Lamp,Bedroom,25.23,53.99,2023-05-23,True
+P0106,Walnut Bedside Lamp,Bedroom,26.33,53.99,2024-10-06,True
+P0107,Slate Bedside Lamp,Bedroom,20.88,58.99,2022-11-23,True
+P0108,Sand Bedside Lamp,Bedroom,14.03,46.99,2023-09-16,True
+P0109,Slate Blackout Curtain,Bedroom,10.58,31.99,2022-05-30,True
+P0110,Nordic Blackout Curtain,Bedroom,70.37,160.99,2023-11-25,True
+P0111,Ivory Blackout Curtain,Bedroom,41.14,113.99,2026-06-04,True
+P0112,Linen Blackout Curtain,Bedroom,108.77,229.99,2023-01-13,True
+P0113,Midnight Blackout Curtain,Bedroom,9.63,28.99,2022-04-19,True
+P0114,Sage Blackout Curtain,Bedroom,32.71,78.99,2023-07-20,True
+P0115,Sand Wool Blanket,Bedroom,36.23,118.99,2024-01-07,True
+P0116,Moss Wool Blanket,Bedroom,45.74,144.99,2023-04-15,True
+P0117,Nordic Wool Blanket,Bedroom,67.1,219.99,2023-03-25,True
+P0118,Terracotta Wool Blanket,Bedroom,20.26,42.99,2026-04-12,True
+P0119,Coral Wool Blanket,Bedroom,118.47,236.99,2024-10-15,True
+P0120,Slate Wool Blanket,Bedroom,88.82,206.99,2025-12-22,True
+P0121,Linen Bath Towel,Bathroom,23.21,71.99,2022-06-02,True
+P0122,Walnut Bath Towel,Bathroom,23.71,49.99,2022-12-22,False
+P0123,Terracotta Bath Towel,Bathroom,17.25,45.99,2022-09-08,True
+P0124,Moss Bath Towel,Bathroom,9.7,29.99,2025-07-29,True
+P0125,Coral Bath Towel,Bathroom,17.94,46.99,2022-11-05,True
+P0126,Nordic Bath Towel,Bathroom,14.1,37.99,2023-07-23,True
+P0127,Ivory Bath Mat,Bathroom,13.08,34.99,2023-08-26,True
+P0128,Midnight Bath Mat,Bathroom,15.79,31.99,2022-09-08,True
+P0129,Linen Bath Mat,Bathroom,32.79,82.99,2022-07-11,True
+P0130,Oak Bath Mat,Bathroom,24.56,51.99,2023-05-17,True
+P0131,Sage Bath Mat,Bathroom,28.71,61.99,2022-12-10,True
+P0132,Slate Bath Mat,Bathroom,21.28,59.99,2022-12-25,False
+P0133,Sand Soap Dispenser,Bathroom,22.89,67.99,2022-11-09,True
+P0134,Linen Soap Dispenser,Bathroom,25.42,78.99,2025-09-17,True
+P0135,Ivory Soap Dispenser,Bathroom,18.21,57.99,2022-10-23,True
+P0136,Moss Soap Dispenser,Bathroom,7.36,14.99,2025-10-15,True
+P0137,Terracotta Soap Dispenser,Bathroom,9.41,18.99,2023-09-05,True
+P0138,Nordic Soap Dispenser,Bathroom,26.13,56.99,2022-06-20,True
+P0139,Terracotta Laundry Basket,Bathroom,35.97,72.99,2023-10-30,False
+P0140,Sand Laundry Basket,Bathroom,17.59,55.99,2023-07-08,True
+P0141,Coral Laundry Basket,Bathroom,19.47,58.99,2023-10-03,True
+P0142,Nordic Laundry Basket,Bathroom,21.56,54.99,2022-12-02,True
+P0143,Sage Laundry Basket,Bathroom,23.18,50.99,2022-03-28,True
+P0144,Slate Laundry Basket,Bathroom,20.16,47.99,2025-12-20,True
+P0145,Nordic Shower Curtain,Bathroom,26.82,83.99,2025-12-08,True
+P0146,Coral Shower Curtain,Bathroom,6.48,14.99,2023-10-12,True
+P0147,Oak Shower Curtain,Bathroom,19.18,41.99,2023-08-09,False
+P0148,Sage Shower Curtain,Bathroom,16.89,34.99,2022-09-19,True
+P0149,Midnight Shower Curtain,Bathroom,24.91,70.99,2025-12-16,True
+P0150,Linen Shower Curtain,Bathroom,11.12,33.99,2023-04-22,True
+P0151,Terracotta Scented Candle,Decor,13.74,27.99,2022-12-09,False
+P0152,Sand Scented Candle,Decor,27.74,61.99,2025-01-29,True
+P0153,Walnut Scented Candle,Decor,42.2,85.99,2023-04-24,True
+P0154,Coral Scented Candle,Decor,28.36,75.99,2022-07-04,True
+P0155,Slate Scented Candle,Decor,65.84,147.99,2022-05-19,False
+P0156,Oak Scented Candle,Decor,11.34,23.99,2022-03-07,True
+P0157,Walnut Vase,Decor,31.33,97.99,2025-03-06,True
+P0158,Nordic Vase,Decor,31.15,104.99,2025-06-13,True
+P0159,Slate Vase,Decor,33.66,71.99,2025-01-23,True
+P0160,Ivory Vase,Decor,28.25,72.99,2024-09-22,True
+P0161,Midnight Vase,Decor,24.35,49.99,2022-08-03,True
+P0162,Sand Vase,Decor,11.58,22.99,2022-07-04,True
+P0163,Ivory Wall Mirror,Decor,47.05,132.99,2025-12-01,True
+P0164,Walnut Wall Mirror,Decor,11.08,21.99,2022-05-26,True
+P0165,Terracotta Wall Mirror,Decor,43.93,101.99,2022-10-22,True
+P0166,Sage Wall Mirror,Decor,40.53,134.99,2023-10-30,True
+P0167,Coral Wall Mirror,Decor,13.29,40.99,2022-05-13,True
+P0168,Linen Wall Mirror,Decor,16.99,34.99,2022-07-07,True
+P0169,Linen Picture Frame,Decor,30.47,100.99,2024-01-05,True
+P0170,Terracotta Picture Frame,Decor,5.9,13.99,2023-12-29,True
+P0171,Sand Picture Frame,Decor,41.99,121.99,2023-06-14,True
+P0172,Moss Picture Frame,Decor,6.93,14.99,2026-02-03,True
+P0173,Slate Picture Frame,Decor,63.88,139.99,2022-05-19,True
+P0174,Ivory Picture Frame,Decor,38.42,126.99,2025-09-20,True
+P0175,Walnut Plant Pot,Decor,11.53,35.99,2022-08-31,True
+P0176,Terracotta Plant Pot,Decor,48.61,113.99,2025-03-30,True
+P0177,Sage Plant Pot,Decor,42.14,128.99,2026-01-01,True
+P0178,Sand Plant Pot,Decor,12.28,34.99,2025-10-23,True
+P0179,Slate Plant Pot,Decor,54.5,108.99,2025-11-05,True
+P0180,Linen Plant Pot,Decor,6.35,14.99,2022-10-30,True
+P0181,Sand Wall Clock,Decor,6.23,12.99,2023-02-14,True
+P0182,Nordic Wall Clock,Decor,10.03,31.99,2022-08-23,True
+P0183,Walnut Wall Clock,Decor,16.5,32.99,2022-11-13,True
+P0184,Coral Wall Clock,Decor,50.91,118.99,2025-02-16,True
+P0185,Linen Wall Clock,Decor,28.89,88.99,2023-07-12,False
+P0186,Ivory Wall Clock,Decor,20.77,49.99,2022-03-10,True
+P0187,Midnight Garden Chair,Outdoor,74.04,171.99,2023-02-26,False
+P0188,Terracotta Garden Chair,Outdoor,19.24,47.99,2022-03-14,True
+P0189,Oak Garden Chair,Outdoor,41.34,104.99,2023-10-03,True
+P0190,Linen Garden Chair,Outdoor,15.51,43.99,2023-10-10,True
+P0191,Ivory Garden Chair,Outdoor,31.87,82.99,2025-12-08,True
+P0192,Moss Garden Chair,Outdoor,59.76,156.99,2022-10-31,True
+P0193,Oak Planter Box,Outdoor,36.02,105.99,2022-03-08,True
+P0194,Nordic Planter Box,Outdoor,25.94,85.99,2022-11-16,True
+P0195,Sage Planter Box,Outdoor,42.91,108.99,2023-09-20,True
+P0196,Slate Planter Box,Outdoor,59.05,142.99,2024-07-22,True
+P0197,Linen Planter Box,Outdoor,74.43,172.99,2022-11-16,True
+P0198,Coral Planter Box,Outdoor,39.06,84.99,2022-10-02,True
+P0199,Moss Outdoor Lantern,Outdoor,53.09,137.99,2022-12-27,True
+P0200,Linen Outdoor Lantern,Outdoor,38.57,95.99,2022-10-20,True
+P0201,Midnight Outdoor Lantern,Outdoor,86.46,179.99,2024-04-25,True
+P0202,Ivory Outdoor Lantern,Outdoor,51.63,127.99,2026-04-08,True
+P0203,Sand Outdoor Lantern,Outdoor,70.23,194.99,2025-04-12,True
+P0204,Slate Outdoor Lantern,Outdoor,40.12,125.99,2022-05-25,True
+P0205,Coral Picnic Blanket,Outdoor,14.13,29.99,2022-06-05,True
+P0206,Sage Picnic Blanket,Outdoor,28.05,76.99,2023-11-24,True
+P0207,Moss Picnic Blanket,Outdoor,19.08,52.99,2024-02-29,True
+P0208,Ivory Picnic Blanket,Outdoor,7.95,16.99,2025-10-30,True
+P0209,Walnut Picnic Blanket,Outdoor,77.44,207.99,2022-08-23,True
+P0210,Terracotta Picnic Blanket,Outdoor,47.89,149.99,2023-09-16,False
+P0211,Midnight Hammock,Outdoor,47.56,95.99,2023-11-09,True
+P0212,Nordic Hammock,Outdoor,67.57,187.99,2022-02-04,True
+P0213,Walnut Hammock,Outdoor,74.75,168.99,2022-07-23,True
+P0214,Terracotta Hammock,Outdoor,47.12,158.99,2023-04-05,True
+P0215,Slate Hammock,Outdoor,24.67,60.99,2023-02-09,True
+P0216,Sand Hammock,Outdoor,23.96,50.99,2023-09-09,True
