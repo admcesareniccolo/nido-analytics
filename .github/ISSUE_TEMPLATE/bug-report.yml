@@ -1,0 +1,24 @@
+name: 🐞 Data bug
+description: A number looks wrong, a model fails or the dashboard breaks
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong?
+      description: Which table, metric or page, and what did you expect to see?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to reproduce
+      placeholder: |
+        1. Run `python -m nido.pipeline`
+        2. ...
+  - type: dropdown
+    id: layer
+    attributes:
+      label: Layer
+      options: ["raw data", "staging", "marts", "dashboard", "CI"]
